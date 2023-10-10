@@ -1,6 +1,5 @@
 # To-Do-List App
-React app
-
+React app, json server and REST API client
 
 # Getting Started with node server App
 
