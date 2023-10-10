@@ -1,61 +1,3 @@
-# To-Do-List-app
-React app, json server and REST API client
-
-
-
-# Getting Started with node server App
-
-## Installation
-
-Enter the server folder
-
-```bash
-cd server
-```
-Install the node_modules
-
-```bash
-npm i
-```
-
-Install axios
-
-```bash
-npm install axios
-```
-Install node server (json-server)
-
-```bash
-npm install json-server
-```
-
-## Available Scripts
-
-you can run:
-
-### `npm run server`
-
-- Runs the app with nodemon
-- The page will reload if you make edits
-- The print at the terminal will be purple with the message:
-
-`> books@0.1.0 server
-> json-server -p 3001 --watch db.json --host 127.0.0.1
-
-
-  \{^_^}/ hi!    
-
-  Loading db.json
-  Done
-
-  Resources
-  http://127.0.0.1:3001/books
-
-  Home
-  http://127.0.0.1:3001`
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -64,18 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-## Installation
-
-Install the node_modules
-
-```bash
-npm i
-```
-
 ### `npm start`
 
-- It will run the app with node.
-  
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
@@ -136,4 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
